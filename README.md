@@ -1,2 +1,2 @@
-# Jupyter
-Python Pandas excercises
+# Python Pandas excercises 
+using Jupyter Notebooks
